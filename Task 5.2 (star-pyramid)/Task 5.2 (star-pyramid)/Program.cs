@@ -11,9 +11,9 @@ if (!int.TryParse(Console.ReadLine(), out numRows))
 
 //One-sided Pyramid
 
-for (int i = 1; i <= numRows; i++)
+for (int checkingRows = 1; checkingRows <= numRows; checkingRows++)
 {
-    for (int j = 0; j < i; j++)
+    for (int star = 0; star < checkingRows; star++)
     {
         Console.Write("*");
     }
