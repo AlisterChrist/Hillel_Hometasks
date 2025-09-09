@@ -36,7 +36,7 @@ do
         isContainsSpecial = false;
     }
 
-    Console.WriteLine(!(isLenghtCorrect && isContainsNumber && isContainsSpecial) ? "Password is Invalid!\nEnter any key to try again!" : "Password created! Well done!");
+    Console.WriteLine((isLenghtCorrect && isContainsNumber && isContainsSpecial) ? "Password created! Well done!" : "Password is Invalid!\nEnter any key to try again!");
     Console.ReadKey();
     Console.Clear();
 
