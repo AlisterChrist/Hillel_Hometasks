@@ -4,12 +4,12 @@ using System.Text;
 StringBuilder report = new StringBuilder();
 
 // Додаємо заголовок
-report.AppendLine("-=-=- Event report -=-=-");
+report.AppendLine("-=- Event report -=-");
 
 // Додаємо поточну дату
 report.AppendLine("Date: " + DateTime.Now.ToString("dd.MM.yyyy"));
 report.AppendLine(); // порожній рядок
-report.AppendLine("List of events:");
+report.AppendLine("Event list:");
 
 // Цикл для введення подій
 while (true)
@@ -28,5 +28,5 @@ while (true)
 }
 
 // Виводимо сформований звіт
-Console.WriteLine("\n=== Generated text report ===\n");
+Console.WriteLine("\n-=-=- Generated text report -=-=-\n");
 Console.WriteLine(report.ToString());

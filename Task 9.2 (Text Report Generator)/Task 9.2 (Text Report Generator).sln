@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 9.3 (Text Report Generator)", "Task 9.3 (Text Report Generator)\Task 9.3 (Text Report Generator).csproj", "{7A4DD40A-0E7B-4AF4-91A6-82ECB808F1AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 9.2 (Text Report Generator)", "Task 9.2 (Text Report Generator)\Task 9.2 (Text Report Generator).csproj", "{1C643597-3110-4FEF-B3D6-586A5D0942D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A4DD40A-0E7B-4AF4-91A6-82ECB808F1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A4DD40A-0E7B-4AF4-91A6-82ECB808F1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A4DD40A-0E7B-4AF4-91A6-82ECB808F1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A4DD40A-0E7B-4AF4-91A6-82ECB808F1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C643597-3110-4FEF-B3D6-586A5D0942D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C643597-3110-4FEF-B3D6-586A5D0942D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C643597-3110-4FEF-B3D6-586A5D0942D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C643597-3110-4FEF-B3D6-586A5D0942D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B3B95601-CF7E-45DA-8B55-4E250996A8A6}
+		SolutionGuid = {88F500C4-B915-4E32-9568-0D677C9D30AC}
 	EndGlobalSection
 EndGlobal
